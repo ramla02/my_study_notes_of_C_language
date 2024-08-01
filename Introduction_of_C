@@ -1,0 +1,26 @@
+What is C?
+
+• C is a general-purpose, procedural, compiled programming language.
+
+Why C language?
+
+• C is the mother of most if not all programming languages.
+• So once you learn C programming, all other other languages becomes easy.
+• C is an excellent choice for system programming, for example, developing operating systems, compilers, and network drivers.
+
+The history of C:
+
+• C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A.
+• The creater and founder  of C language is Dennis Ritchie.
+• C is the offspring of both the B programming language and a language named BCPL,
+which stood for (Basic Combined Programming Language.) But you have to admit that the B story is cute enough by itself.
+
+The structure of C language:
+
+• Documentation
+• Preprocessor Section
+• Definition
+• Main() Function
+• {
+• block of code/statement
+• } 
