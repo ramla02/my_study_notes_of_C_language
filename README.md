@@ -7,3 +7,7 @@
  * Why C language? 
  * The history of C.
  * The structure of the C language.
+
+### 2/8/2024 friday
+
+* Features of C Language
